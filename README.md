@@ -10,4 +10,4 @@ Abaixo segue uma lista de todos os projetos já realizados:
 
 | Numeração |                                  Projeto                                               |
 | --- | :------------------------------------------------------------------------------------------: |
-| 01   |    [Jogo da Cobra](https://raissayoshioka.github.io/pequenos-projetos-javascript/01-jogo-da-cobra/)                     |
+| 01   |    [Jogo da Cobra](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/01-jogo-da-cobra/)                     |
