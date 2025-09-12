@@ -13,3 +13,4 @@ Abaixo segue uma lista de todos os projetos já realizados:
 | 01   |    [Jogo da Cobra](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/01-jogo-da-cobra/)                     |
 | 02   |    [Temporizador](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/02-temporizador/)                     |
 | 03   |    [Conversor Binário](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/03-conversor-binario/)                     |
+| 04   |    [Jogo Tetris](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/04-tetris/)                     |

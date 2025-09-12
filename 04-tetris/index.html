@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Tetris</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+
+    <h1>TETRIS</h1>
+
+    <div id="headline">
+        <div id="pontuacao">
+            Pontuação:
+            <span id="pontValor">0</span>
+        </div>
+        <button id="iniciar" onclick="reiniciarJogo()">Reiniciar Jogo</button>
+    </div>
+
+    <div id="jogo">
+        <canvas id="tetris" width="300" height="600"></canvas>
+        <div id="pecasDisponiveis">
+            <h2>Peças Disponíveis</h2>
+            <div id="pecas"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
