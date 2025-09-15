@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(157, 105, 206, 0.858);
+    color: #e6e6e6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.cronometro-container {
+    text-align: center;
+    background-color: rgba(103, 21, 180, 0.896);
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+.cronometro-container h1 {
+    margin-bottom: 30px;
+    font-size: 2.5em; /* Define o tamanho da fonte como 2.5 vezes o tamanho padrão da fonte*/
+}
+
+#cronometro {
+    font-size: 3em; /* Define o tamanho da fonte como três vezes o tamanho padrão da fonte */
+    margin-bottom: 30px;
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+button {
+    background: rgb(105, 177, 228);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: #0f1a25;
+    font-size: 1em;
+    cursor: pointer;
+
+    transition: background 0.3s;
+    /* Adiciona uma transição suave de 0.3 segundos para mudanças de fundo,
+        proporcionando um feedback visual agradável quando o estado do botão muda*/
+}
+
+button:hover {
+    background: rgb(37, 124, 186);
+}
+
+button:disabled {
+    background-color: rgb(132, 135, 136);
+    cursor: not-allowed;
+}

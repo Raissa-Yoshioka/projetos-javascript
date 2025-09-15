@@ -14,3 +14,4 @@ Abaixo segue uma lista de todos os projetos já realizados:
 | 02   |    [Temporizador](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/02-temporizador/)                     |
 | 03   |    [Conversor Binário](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/03-conversor-binario/)                     |
 | 04   |    [Jogo Tetris](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/04-tetris/)                     |
+| 05   |    [Cronômetro](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/05-cronometro/)                     |
