@@ -1,0 +1,53 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #1b1831;
+}
+
+.contador {
+    display: flex;
+    text-align: center;
+    background-color: #221250;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.contador div {
+    padding: 20px 30px;
+    
+    /* Define que cada <div> dentro de '.contador' cresca para ocupar
+        igualmente o espaço disponível no container flexível */
+    flex-grow: 1;
+
+    background-color: #3e2f85;
+    color: #fff;
+    position: relative;
+}
+
+/* Cria uma borda à direita para cada <div> dentro de 
+    '.contador' exceto para o último */
+.contador div:not(:last-child) {
+    border-right: 10px solid #1b1831;
+}
+
+.contador span {
+    display: block;
+    margin-top: 8px;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+@keyframes fade {
+    
+    from {opacity: 0;}
+    to {opacity: 1;}
+
+}
+
+.fade-in {
+    animation: fade 0.5s;
+}
