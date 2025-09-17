@@ -4,4 +4,4 @@ Durante a criação deste projeto, a data definida foi 18 de Setembro de 2025 à
 
 Após essa data, será exibido na tela apenas uma mensagem _'O evento já começou!_.
 
-Para alterar essa data, é preciso ir ao arquivo *script.js* deste projeto e alterar a variável *dataEvento* para a data desejada.
+Para alterar essa data, é preciso ir ao arquivo *script.js* do projeto e alterar a variável *dataEvento* para a data desejada.
