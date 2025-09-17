@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
         */
         const dias = Math.floor(distancia / (1000 * 60 * 60 * 24));
         const horas = Math.floor((distancia % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        const minutos = Math.floor((distancia % (100 * 60 * 60)) / (1000 * 60));
+        const minutos = Math.floor((distancia % (1000 * 60 * 60)) / (1000 * 60));
         const segundos = Math.floor((distancia % (1000 * 60)) / 1000);
 
         // Alterando a exibição da contagem, verificando para acrescentar um '0' à esquerda quando
