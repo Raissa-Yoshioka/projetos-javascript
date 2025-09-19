@@ -17,3 +17,4 @@ Abaixo segue uma lista de todos os projetos já realizados:
 | 05   |    [Cronômetro](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/05-cronometro/)                     |
 | 06   |    [Jogo Puzzle](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/06-jogo-puzzle/)                     |
 | 07   |    [Contador Regressivo por Data](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/07-contador-regressivo-por-data/)                     |
+| 08   |    [Gerador de Senhas](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/08-gerador-senhas/)                     |
