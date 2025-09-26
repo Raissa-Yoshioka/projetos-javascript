@@ -707,15 +707,6 @@ window.addEventListener('load', function() {
             animationFrameId = null;
         }
 
-        // Preenche toda a tela com preto, para limpar o canvas
-        contexto.fillStyle = PRETO;
-        contexto.fillRect(0, 0, LARGURA, ALTURA);
-
-        // Definindo o texto
-        contexto.fillStyle = BRANCO;
-        contexto.font = '24px Arial';
-        contexto.textAlign = 'center';
-
         // Exibe a mensagem no centro da tela
         alert(mensagem);
 
