@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background-color: black;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+}
+
+#espaco {
+    padding: 10px;
+    margin: 5% auto;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    background-color: black;
+}
