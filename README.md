@@ -19,3 +19,4 @@ Abaixo segue uma lista de todos os projetos já realizados:
 | 07   |    [Contador Regressivo por Data](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/projetos/07-contador-regressivo-por-data/)                     |
 | 08   |    [Gerador de Senhas](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/projetos/08-gerador-senhas/)                     |
 | 09   |    [Pac-Man](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/projetos/09-pacman/)                     |
+| 10   |    [Conversor Decimal/Romano](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/projetos/10-conversor-decimal-romano/)                     |

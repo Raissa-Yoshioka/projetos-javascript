@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Conversor de Números Romanos</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+
+    <div class="conversor">
+
+        <h1>Conversor de Números Romanos</h1>
+
+        <input type="text" id="numEntrada" placeholder="Digite um número decimal ou romano">
+
+        <div class="botoes">
+            <button id="converterRomano">Converter para Romano</button>
+            <button onclick="converterParaDecimal()">Converter para Decimal</button>
+            <button onclick="mostrarDica()">Dica</button>
+        </div>
+
+        <textarea id="numSaida" placeholder="Resultado..."></textarea>
+
+    </div>
+
+    <div id="modalDica" class="modal">
+
+        <div class="modalConteudo">
+
+            <span class="fechar" onclick="fecharDica()">&times;</span>
+
+            <h2>Significado de algumas Letras Romanas</h2>
+            <ul>
+                <li><strong>I</strong> = 1</li>
+                <li><strong>V</strong> = 5</li>
+                <li><strong>X</strong> = 10</li>
+                <li><strong>L</strong> = 50</li>
+                <li><strong>C</strong> = 100</li>
+                <li><strong>D</strong> = 500</li>
+                <li><strong>M</strong> = 1000</li>
+                <li><strong>IV</strong> = 4</li>
+                <li><strong>IX</strong> = 9</li>
+                <li><strong>XL</strong> = 40</li>
+                <li><strong>XC</strong> = 90</li>
+                <li><strong>CD</strong> = 400</li>
+                <li><strong>CM</strong> = 900</li>
+            </ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
