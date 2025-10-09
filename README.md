@@ -28,3 +28,4 @@ Abaixo segue uma lista de todos os projetos já realizados:
 | 09   |    [Pac-Man](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/projetos/09-pacman/)                     |
 | 10   |    [Conversor Decimal/Romano](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/projetos/10-conversor-decimal-romano/)                     |
 | 11   |    [Jogo Asteroides](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/projetos/11-jogo-asteroides/)                     |
+| 12   |    [Flappy Bird](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/projetos/12-flappy-bird/)                     |

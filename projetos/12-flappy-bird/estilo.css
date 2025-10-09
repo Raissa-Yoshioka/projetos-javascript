@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #71caed;
+    overflow: auto;
+    position: relative;
+}
+
+#canvasJogo {
+    border: 2px solid #000;
+    background-color: #5fabc9;
+}
+
+#titulo {
+    display: block;
+    position: absolute;
+    top: 32%;
+    font-family: Cambria;
+    font-weight: bold;
+    font-size: 38px;
+    color: black;
+}
+
+#btnComecar {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #333;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#btnComecar:hover {
+    background-color: #100e0e;
+    color: #5fabc9;
+}
