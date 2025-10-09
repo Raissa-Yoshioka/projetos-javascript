@@ -3,7 +3,6 @@ window.addEventListener('load', function() {
 
     const canvas = document.getElementById('gameCanvas');
     const contexto = canvas.getContext('2d');
-    const div = document.getElementById('espaco');
 
     // Define as dimensões do canvas
     const LARGURA = canvas.width;
