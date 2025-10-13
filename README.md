@@ -30,3 +30,4 @@ Abaixo segue uma lista de todos os projetos já realizados:
 | 11   |    [Jogo Asteroides](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/projetos/11-jogo-asteroides/)                     |
 | 12   |    [Flappy Bird](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/projetos/12-flappy-bird/)                     |
 | 13   |    [Relógio Mundial](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/projetos/13-relogio-mundial/)                     |
+| 14   |    [Jogo Quebra-Blocos](https://raissa-yoshioka.github.io/pequenos-projetos-javascript/projetos/14-jogo-quebra-blocos/)                     |
