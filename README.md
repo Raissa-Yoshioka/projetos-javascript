@@ -1,4 +1,4 @@
-# Pequenos Projetos em Javascript
+# Projetos em Javascript
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-royalblue?style=for-the-badge&logo=css&logoColor=white)
