@@ -28,7 +28,7 @@ const pecas = [
 ];
 
 // Lista com as cores das peças que entram no tabuleiro
-const cores = ['blue', '#e21717ff', '#752caeff', '#3fb92dff', 'pink', 'peru', '#3bc2cbff'];
+const cores = ['blue', '#e21717ff', '#6b11b0ff', '#38bb24ff', 'pink', 'peru', '#3bc2cbff'];
 
 // Função que inializa o tabuleiro do jogo
 function inicializarTabuleiro() {
@@ -217,7 +217,7 @@ function inicializarPecasDisponiveis() {
             linha.forEach(bloco => {
                 // Cria um novo elemento para cada bloco da peça e preenche a cor do bloco para formar a peça
                 const blocoDiv = document.createElement('div');
-                blocoDiv.style.backgroundColor = bloco ? '#270092ff' : 'white';
+                blocoDiv.style.backgroundColor = bloco ? '#2f0c8eff' : '#e3dede';
                 pecaDiv.appendChild(blocoDiv);
             });
         });
